@@ -1,0 +1,160 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	line-height:20px;
+	color:#003366;
+	}
+	
+a {
+	color: #3366CC;
+	}
+	
+a:hover {
+	color: #810081;
+	}
+
+/* ID Styles */
+
+#navigation td {
+	border-bottom: 2px solid #003366;
+	}
+	
+#navigation a {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 26px;
+	background: url("https://neutrons2.ornl.gov/conf/nxs2008/mm_square_purple.gif") 14px 45% no-repeat;
+	}
+	
+#navigation a:hover {
+	background: #6CA031 url("https://neutrons2.ornl.gov/conf/nxs2008/mm_square_purple.gif") 14px 45% no-repeat;
+	color: #000000;
+	}
+	
+#logo 	{
+	font:24px Verdana, Arial, Helvetica, sans-serif;
+	color: #CCFF99;
+	letter-spacing:.2em;
+	line-height:30px;
+	}
+
+#tagline 	{	
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	color: #FF9933;
+	letter-spacing:.4em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom: 2px solid #E6F3FF;
+		}
+		
+#dateformat {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	letter-spacing:.2em;
+	}
+	
+#dateformat a {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	font-weight:bold;
+	letter-spacing:.1em;
+	}
+	
+#dateformat a:hover {
+	color: #FF6600;
+	letter-spacing:.1em;
+	}
+	
+/* Class Styles */
+	
+.bodyText {
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	line-height:20px;
+	margin-top:0px;
+	}
+	
+.pageName{
+	font: 18px Verdana, Arial, Helvetica, sans-serif;
+	color: #3366CC;
+	line-height:24px;
+	letter-spacing:.2em;
+	}
+	
+.subHeader {
+	font:bold 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #3366CC;
+	line-height:16px;
+	letter-spacing:.2em;
+	}
+
+.quote {
+	font: 20px Verdana, Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	}
+	
+.navText {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	}
+
+
+p {
+	color: #000000;
+}
+
+
+
+.headertext {
+	font:24px Verdana, Arial, Helvetica, sans-serif;
+	color: #F8BD4C;
+	letter-spacing:.2em;
+	line-height:30px;
+	}
+	
+	.headersubtext {
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	color: #E6F2FE;
+	letter-spacing:.4em;
+	line-height:18px;
+	}
+	
+.captions {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #003366;
+	font-size: 9px;
+	text-align: center;
+	width: 100%;
+	margin: 0px;
+}
+
+.captionsleft {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #003366;
+	font-size: 9px;
+	text-align: left;
+	width: 100%;
+	margin: 0px;
+}

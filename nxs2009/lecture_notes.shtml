@@ -1,0 +1,194 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Lecture Notes - NXS 2009</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+<link rel="stylesheet" href="style.css" type="text/css">
+<script language="javascript">
+//--------------- LOCALIZEABLE GLOBALS ---------------
+var d=new Date();
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+//Ensure correct for language. English is "January 1, 2004"
+var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+//---------------   END LOCALIZEABLE   ---------------
+</script>
+</head>
+<body bgcolor="#FFFFFF">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#847B6E">
+  <tr>
+    <td rowspan="2" bgcolor="#E6F3FF"><a href="index.html"><img src="images/NXS_logo_SM_sm.jpg" alt="ORNL Neutron Scattering School" width="165" height="178" border="0"></a></td>
+<td width="90%" align="center" valign="bottom" nowrap bgcolor="#0B22AD" class="headertext">
+         National School on Neutron and X-ray Scattering<br />
+        
+      </td>
+    <td width="10%" align="center" valign="bottom" nowrap bgcolor="#0B22AD"  id="logo">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="90%" align="center" valign="top" bgcolor="#0B22AD" id="tagline"><br />
+      May 30 - June 13, 2009<br />
+Oak Ridge National Laboratory, Oak Ridge, TN<br />
+Argonne National Laboratory, Argonne, IL</td>
+    <td width="10%" align="center" valign="top" bgcolor="#0B22AD" id="tagline">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#CCFF99" bgcolor="#CCFF99">
+  <tr>
+    <td width="88%" bgcolor="#9F0000">&nbsp;</td>
+  <td width="11%" align="right" nowrap bgcolor="#9F0000" id="dateformat"><span class="style1">&nbsp;&nbsp;
+      <script language="javascript">
+      document.write(TODAY);	</script>
+    </span>&nbsp;</td>
+    <td width="1%" bgcolor="#9F0000"><span class="style1"></span></td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="165" valign="top" bgcolor="#FFFF99"><table border="0" cellspacing="0" cellpadding="0" width="165" id="navigation">
+  <tr>
+    <td width="165">&nbsp;<br>
+      &nbsp;<br></td>
+  </tr>
+  <tr>
+    <td width="165">
+    <a href="index.shtml" class="navTitle">ORNL NXS2009
+    <br />
+    </a>
+    <a href="http://www.surveymonkey.com/s.aspx?sm=g_2bqPYKjKwiwvKqvudP7w3g_3d_3d">Participant Survey</a>
+    <a href="tour.shtml">Local Industry Tours</a>
+    <a href="pdf/NX_School_2009-Map.pdf">Participant Institutions</a>    
+    <a href="lecture_notes.shtml" class="navText">Lecture Notes</a>   
+    <a href="video.shtml" class="navText">Lecture Videos</a> </td>
+  </tr>
+  <tr>
+    <td width="165" class="navTitle"><a href="transportation.shtml">Transportation</a> 
+    	<a href="pdf/TravelLodgingNx09.pdf">Argonne Travel</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="165" class="navTitle"><a href="pdf/NXS_schedule_2009_v9_3.pdf" target="_blank">Schedule<br>
+    </a></td>
+  </tr>
+  <tr>
+    <td width="165"  class="navTitle">&nbsp;ORNL Experiments
+	<a href="abstracts.shtml" class="navText">Abstracts</a> <a href="pdf/THURS_Experiment_Discussion_matrix.pdf" target="_blank" class="navText">Discussion Schedule</a> <a href="experiments.shtml" class="navText">Experiments</a>  <a href="pdf/NXS2009_groups.pdf" target="_blank" class="navText">Experiment Groups</a>    </td>
+  </tr>
+  <tr>
+    <td width="165" class="navTitle">&nbsp;ORNL Facilities
+			<a href="http://neutrons.ornl.gov/hfir/hfir_facilities.shtml" class="navText">HFIR Facility</a>
+    	<a href="http://neutrons.ornl.gov/facilities/facilities_sns.shtml" class="navText">SNS Facility</a>
+    	<a href="http://www.ornl.gov/ornlhome/maps/ornl_maps/sns_hfir_vistor_map.pdf" class="navText">HFIR/SNS Map</a>
+    
+ 		</td>
+  </tr>
+  <tr>
+    <td width="165"><a href="pdf/AccessRequirements.pdf" class="navText">Access Requirements</a></td>
+  </tr>
+  <tr>
+     <td width="165"><a href="NeutronSchool_ORNL_Visitor_WirelessInstructions_v1.pdf" class="navText">Wireless Network Access</a></td>
+   
+  </tr>
+    <tr>
+    <td width="165"><a href="pdf/Safety_Medical_Security_Restrictions_2009.pdf" class="navText">Safety &amp; Security Rules</a></td>
+  </tr>
+  <tr>
+    <td><a href="contact.shtml" class="navText">Contact</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="http://www.neutronscattering.org/" class="navText">NSSA</a>
+    </td>
+  </tr>  
+  
+</table><br /><br />
+</td>
+    <td width="35" valign="bottom"><img src="https://neutrons2.ornl.gov/conf/nxs2009/spacer.gif" alt="filler" width="35" height="1"> </td>
+    <td width="100%" valign="top">
+      <table border="0" cellspacing="6" cellpadding="6">
+       <tr>
+        <td background="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Gaulin_June01_09.pdf"><div class="pageName">
+          <h2>Lecture Notes</h2>
+        </div>
+        	<p><em>Some of the material  in the following presentations are protected by copyright. Distribution,  presentation, or other use requires express permission by the author.</em></p>
+        	<h4>ORNL Lectures</h4>
+        	<p>Chris  Benmore &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Benmore_NXschool09.pdf" target="_blank">Pair Distribution Function Analysis</a> (5.6 MB)</p>
+            <p>John M. Carpenter - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/JMC_nschool_Neutron_Detectors.pdf" target="_blank">Detectors for Slow Neutrons</a> (0.5 MB)</p>
+<p>John  M. Carpenter - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/JMC_nschool_Neutron_Sources.pdf">Neutron Sources for Materials Research</a> (3.4 MB)</p>
+<p>Bruce Gaulin - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Gaulin_June01_09.pdf">Magnetic Neutron Scattering</a> (2.5 MB)</p>
+<p>Ken Herwig - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/HerwigPackage.pdf">Introduction to Quasielastic  Neutron Scattering (QNS)</a> (5.2MB)</p>
+<p>Ashfia Huq &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/ashfia_huq_powder_diffraction.pdf" target="_blank">Powder Diffraction</a> (2.61 MB)</p>
+<p>Ashfia Huq &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/ashfia_huq_powder_diffraction_app.pdf" target="_blank">Powder Diffraction Application</a> (4.04 MB)</p>
+<p>G. E. Ice - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Gene_Ice_Diffuse09.pdf">Diffuse Scattering </a>(3.5 MB)</p>
+<p>G. E. Ice - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Gene_Ice_Micro2009.pdf">X-ray and  Neutron Microdiffraction</a> (4.4 MB)</p>
+<p>C. F.  Majkrzak - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Majkrzak_XNS2009_polarized_neutrons.pdf">Neutron Polarization</a> (9.3 MB)</p>
+<p>C. F. Majkrzak - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/xns_reflectometry.pdf">Reflectometry</a> (16.3 MB)</p>
+<p>Rob McQueeney - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Rob_McQueeney_NXS_School2009.pdf">Inelastic  Neutron Scattering</a> (5.2 MB)</p>
+<p>Dean Myles - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Myles-NXS-2009.pdf">Neutron Instrumentation</a> (7.3 MB)</p>
+<p>Roger  Pynn - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/IntroductoryLecturesPynn.pdf">Introduction to Neutron and X-ray  Scattering</a><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/IntroductoryLecturesPynn.pdf"> (4 lectures)</a> (8.1 MB)</p>
+<p>        	  Jim Rhyne - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Jim_Rhyne_Scattering_Facilities_Overview_2009.pdf" target="_blank">Neutron Sources</a> (3 MB)</p>
+<p>Art Schultz - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Schultz-Single_Crystal_Diffraction.pdf">Single Crystal Diffraction</a> (4 MB)</p>
+<p>Volker Urban - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/NeutronXraySchool_SAS_vu5.pdf">Small Angle Scattering</a> (4.82 MB)</p>
+<p>Xiaoping Wang - <a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/SmallMoleculeApplications.pdf">Applications of Small Molecule Crystallography</a> (6.8 MB)</p>
+<p>&nbsp;</p>
+<h4>Argonne Lectures</h4>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%201%20-%20X-ray%20Generation%20and%20Instrumentation.pdf" target="_blank">Lecture 1 - X-ray Generation and Instrumentation</a> (17.7 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%202%20-%20X-ray%20Detection.pdf" target="_blank">Lecture 2 - X-ray Detection</a> (17.8 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%203%20-%20X-ray%20Absorption.pdf" target="_blank">Lecture 3 - X-ray Absorption</a> (5.3 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%204%20-%20High%20Energy%20X-ray%20Applications.pdf" target="_blank">Lecture 4 - High Energy X-ray Applications</a> (16.5 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%205%20-%20High%20Pressure%20Techniques.pdf" target="_blank">Lecture 5 - High Pressure Techniques</a> (7.2 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%206%20-%20X-ray%20Imaging.pdf" target="_blank">Lecture 6 - X-ray Imaging</a> (18.4 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%207%20-%20Non-crystalline%20Diffraction.pdf" target="_blank">Lecture 7 - Non-crystalline Diffraction</a> (5.2 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%209%20-%20Surface%20Scattering%20and%20Spectroscopy.pdf" target="_blank">Lecture 9 - Surface Scattering and Spectroscopy</a> (3.5 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%2010%20-%20Coherent%20X-ray.pdf" target="_blank">Lecture 10 - Coherent X-ray</a> (1.7 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%2011%20-%20Magnetic%20Spectroscopy.pdf" target="_blank">Lecture 11 - Magnetic Spectroscopy</a> (2.5 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%2012%20-%20Real%20or%20Reciprocal%20Space%20Complementarity.pdf" target="_blank">Lecture 12 - Real or Reciprocal Space Complementarity</a> (6.6 MB)</p>
+<p><a href="https://neutrons2.ornl.gov/conf/nxs2009/pdf/Lecture%2013%20-%20Proposal%20Writing.pdf" target="_blank">Lecture 13 - Proposal Writing</a> (1.6 MB)</p>
+
+
+
+
+        </td>
+        </tr>
+      </table>
+    <td width="35" valign="bottom"><img src="https://neutrons2.ornl.gov/conf/nxs2009/spacer.gif" alt="filler" width="35" height="1"> </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#2D60BC" bgcolor="#CCFF99">
+  <tr>
+    <td width="100%" bgcolor="#9F0000">&nbsp;</td>
+  </tr>
+   <tr>
+    <td width="100%" height="5" bgcolor="#000000"></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="6" cellspacing="6" bordercolor="#FFFF99" bgcolor="#FFFF99">
+  <tr>
+    <td width="120" valign="top" bordercolor="#000000" bgcolor="#FFFF99">&nbsp;</td>
+    <td width="100%" align="center" valign="top" nowrap bordercolor="#000000" bgcolor="#FFFF99" class="footer"><span class="smallText"><!--ACA is an affiliate member of the IUCr and  adheres to the IUCr Scientific Freedom Policy<br>
+and is a member of the American  Institute of Physics<br>
+ --><br>
+<a 
+   href="mailto:neutronscience@ornl.gov">Webmaster</a>&nbsp; &#8226; &nbsp;<a 
+   href="http://www.ornl.gov/ornlhome/disclaimers.shtml">Privacy &amp; Security Disclaimers</a>&nbsp; <!--&#8226; &nbsp; <a href="/conf/aca2008/sponsors/">Sponsors</a> --><br>
+<br>
+<a href="http://www.ornl.gov/">Oak Ridge National Laboratory</a>, 
+      is a national multiprogram 
+      research 
+      and 
+      development 
+      facility<br>
+      managed by      
+      <a 
+    href="http://www.ut-battelle.org/">UT-Battelle, LLC</a>, 
+      for the      
+    <a 
+    href="http://www.doe.gov/engine/content.do">U.S. Department of Energy</a> <a 
+    href="http://www.science.doe.gov/">Office of Science</a>.</span><br>
+    &nbsp;</td>
+    <td width="130" valign="top" nowrap>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

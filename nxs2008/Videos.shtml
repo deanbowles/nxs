@@ -1,0 +1,249 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Neutron Scattering School (NXS2008)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+<link rel="stylesheet" href="mm_travel2.css" type="text/css">
+<script language="javascript">
+//--------------- LOCALIZEABLE GLOBALS ---------------
+var d=new Date();
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+//Ensure correct for language. English is "January 1, 2004"
+var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+//---------------   END LOCALIZEABLE   ---------------
+</script>
+<style type="text/css"><!--
+.style1 {font-weight: bold}
+.style2 {font-weight: bold}
+.style3 {
+	color: #3366cc;
+	font-weight: bold;
+}
+.style4 {color: #003366}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#E6F2FE">
+  <tr>
+    <td rowspan="2" bgcolor="#E6F3FF"><a href="index.html"><img src="images/logo_blue.jpg" alt="ORNL Neutron Scattering School" width="165" height="178" border="0"></a></td>
+    <td width="90%" align="center" valign="bottom" nowrap bgcolor="#3366CC" class="headertext">
+         ORNL Neutron Scattering School<br />
+        
+      </td>
+    <td width="10%" align="center" valign="bottom" nowrap bgcolor="#3366CC"  id="logo">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="90%" align="center" valign="top" bgcolor="#3366CC" id="tagline"> <span class="style2">September 28 - October 2, 2008<br>
+    Oak Ridge National Laboratory<br>
+    Oak Ridge, Tennessee
+    </span></td>
+    <td width="10%" align="center" valign="top" bgcolor="#3366CC" id="tagline">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#CCFF99" bgcolor="#CCFF99">
+  <tr>
+    <td width="88%" bgcolor="#6CA031">&nbsp;</td>
+    <td width="11%" align="right" nowrap bgcolor="#6CA031" id="dateformat"><span class="style1">&nbsp;&nbsp;
+        <script language="javascript">
+      document.write(TODAY);	</script>
+    </span>&nbsp;</td>
+    <td width="1%" bgcolor="#6CA031"><span class="style1"></span></td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="165" valign="top" bgcolor="#E6F3FF"><table border="0" cellspacing="0" cellpadding="0" width="165" id="navigation">
+  <tr>
+    <td width="165">&nbsp;<br>
+      &nbsp;<br></td>
+  </tr>
+  <tr>
+    <td width="165">
+    <a href="index.shtml" class="navText">ORNL NXS2008</a>
+    <a href="http://www.dep.anl.gov/nx/" class="navText">Argonne NXS2008</a>
+    <a href="NXS%20Participants%20List%202008.pdf" class="navText">NXS 2008 Participants</a>
+    <a href="NXS%20Lecturers%20List%202008.pdf" class="navText">NXS 2008 Lecturers</a>
+    <a href="Present.shtml" class="navText">Lecture Notes</a>
+    <a href="Videos.shtml" class="navText">Lecture Videos</a>
+    <br /></td>
+  </tr>
+  <tr>
+    <td width="165">&nbsp;Schedules
+    	<a href="SchoolProgram2008_8.pdf" class="navText">NX School Schedule</a>
+    	<a href="NXS%20AGENDA%202008_website.pdf" class="navText">Week 2:ORNL Agenda<br><i>[updated 9/30/08]</i></a>
+    	<a href="NXS2008%20Group%20Assignments_website.pdf" class="navText">Experiment Groups</a>
+    	<!--<a href="" class="navText">PFE Training</a> -->    		</td>
+  </tr>
+  <tr>
+    <td width="165">&nbsp;ORNL Experiments
+    	<a href="experiments.pdf" class="navText">Experiments</a>
+  <!---  	<a href="" class="navText">SNS/HFIR Instruments</a>--->    		</td>
+  </tr>
+  <tr>
+    <td width="165">&nbsp;ORNL Facilities
+			<a href="http://neutrons.ornl.gov/hfir/hfir_facilities.shtml" class="navText">HFIR Facility</a>
+    	<a href="http://neutrons.ornl.gov/facilities/facilities_sns.shtml" class="navText">SNS Facility</a>
+    	<a href="http://www.ornl.gov/ornlhome/maps/ornl_maps/sns_hfir_vistor_map.pdf" class="navText">HFIR/SNS Map</a>
+    
+ 		</td>
+  </tr>
+  <tr>
+    <td width="165"><a href="Access%20Requirements_website.pdf" class="navText">Access Requirements</a></td>
+  </tr>
+  <tr>
+     <td width="165"><a href="Neutron%20School%20%20-%20ORNL%20Visitor%20Wireless%20Instructions%20v%201%200.pdf" class="navText">Wireless Network Access</a></td>
+   
+  </tr>
+    <tr>
+    <td width="165"><a href="Safety%20&amp;%20Security%20Restrictions_website.pdf" class="navText">Rules & Regulations</a></td>
+  </tr>
+
+
+  <!--<tr>
+    <td><a href="dates.shtml" class="navText">Important dates</a></td>
+  </tr> -->
+  <tr>
+    <td><a href="contact.shtml" class="navText">Contact</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="http://www.neutronscattering.org/" class="navText">NSSA</a>
+    <a href="NSSA%20Membership%20and%20Address%20Update%20Form.docx" class="navText">NSSA Membership Form</a></td>
+  </tr>  
+  
+</table><br /><br />
+</td>
+    <td width="35">&nbsp;</td>
+    <td valign="top"><div  class="pageName">
+		<em>Tenth National School on Neutron and X-ray Scattering</em> 	
+      	<h2>Lecture Video Presentations</h2> 
+    </div> 
+
+<table width="100%" border="0" cellpadding="4" cellspacing="0">
+<tr>
+      		<td width="200" valign="bottom" nowrap> <a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080928.wmv"><strong>September 28, 2008</strong></a>      	</td>
+   	      <td width="100%" valign="bottom"><p class="style4">Thom Mason, ORNL Director, Welcome and<br>
+       	      Dean Myles, Neutron  Instrumentation/Optics I</p>       	      </td>
+       	</tr>      
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080928_B.wmv"><strong>September 28, 2008 - B</strong></a></td>
+       	    <td width="100%" valign="bottom">Dean Myles, Neutron  Instrumentation/Optics II</td>
+       	</tr>  
+      	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080929_A.wmv"><strong>September 29, 2008 - A</strong></a></td>
+   	      <td width="100%" valign="bottom">Jim Rhyne, Powder  Diffraction I</td>
+      	</tr>      
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080929_B.wmv"><strong>September 29, 2008 - B</strong></a></td>
+       	    <td width="100%" valign="bottom">Jim Rhyne, Powder  Diffraction II</td>
+       	</tr>      
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080929_C.wmv"><strong>September 29, 2008 - C</strong></a></td>
+       	    <td width="100%" valign="bottom">Ken Herwig, Quasi-Elastic  Neutron Scattering I</td>
+       	</tr>      
+      
+      	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080929_D.wmv"><strong>September 29, 2008 - D</strong></a></td>
+   	      <td width="100%" valign="bottom">Ken Herwig, Quasi-Elastic  Neutron Scattering II</td>
+      	</tr>      
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080930_A.wmv"><strong>September 30, 2008 - A</strong></a></td>
+       	    <td width="100%" valign="bottom">Ray Osborn, Inelastic  Neutron Scattering I</td>
+       	</tr>  
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080930_B.wmv"><strong>September 30, 2008 - B</strong></a></td>
+       	    <td width="100%" valign="bottom">Ray Osborn, Inelastic Neutron  Scattering II</td>
+       	</tr>  
+      	 <tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080930_C.wmv"><strong>September 30, 2008 - C</strong></a></td>
+           <td width="100%" valign="bottom">Chuck Majkrzak,  Reflectivity I</td>
+   	    </tr>    
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/080930_D.wmv"><strong>September 30, 2008 - D</strong> </a></td>
+       	    <td width="100%" valign="bottom">Chuck Majkrzak,  Reflectivity II</td>
+       	</tr>  
+      	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/081001_A.wmv"><strong>October 01, 2008 - A</strong></a></td>
+   	      <td width="100%" valign="bottom">Chuck Majkrzak, Magnetic  Scattering I</td>
+      	</tr>
+      	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/081002_B.wmv"><strong>October 01, 2008 - B</strong></a></td>
+   	      <td width="100%" valign="bottom">Chuck Majkrzak, Magnetic  Scattering II</td>
+      	</tr>      
+      	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/081001_C.wmv"><strong>October 01, 2008 - C</strong></a></td>
+   	      <td width="100%" valign="bottom">Xiaoping Wang, Single  Crystal Diffraction I</td>
+      	</tr>      
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/081001_D.wmv"><strong>October 01, 2008 - D</strong></a></td>
+       	    <td width="100%" valign="bottom">Xiaoping Wang, Single  Crystal Diffraction II</td>
+       	</tr>      
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><span class="style3"><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/081002_A.wmv">October 02, 2008 - A</a></span></td>
+       	    <td width="100%" valign="bottom">Gene Ice, Diffuse  Scattering</td>
+       	</tr>      
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><span class="style3"><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/081002_B.wmv">October 02, 2008 - B</a></span></td>
+       	    <td width="100%" valign="bottom">Gene Ice, Micro-Diffraction</td>
+       	</tr>      
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/081002_C.wmv"><strong>October 02, 2008 - C</strong></a></td>
+       	    <td width="100%" valign="bottom">Ashfia Huq, Powder  Diffraction Applications</td>
+       	</tr>      
+            	<tr>
+      		<td width="200" valign="bottom" nowrap><a href="http://ornlmedia.ornl.gov/webworks/neutrons/nxs2008/081002_D.wmv"><strong>October 02, 2008 - D</strong></a></td>
+       	    <td width="100%" valign="bottom">Thomas Proffen, Total  Scattering/PDF Analysis</td>
+       	</tr> 
+      </table>
+      <p>&nbsp;</p>
+            <table width="450" border="0" cellpadding="2" cellspacing="0" >
+   	    <tr valign="bottom"><td><img src="images/argonne_header_logo.jpg" alt="Argonne Logo" width="215" height="87" border="0" >&nbsp;<img src="images/ORNL_white_30.jpg" alt="ORNL Log" width="215" height="87"  ></td></tr>
+  	  </table>
+    </td>
+    <td width="35">&nbsp;</td>
+  </tr>
+
+</table>
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#2D60BC" bgcolor="#CCFF99">
+  <tr>
+    <td width="100%" bgcolor="#6CA031">&nbsp;</td>
+  </tr>
+   <tr>
+    <td width="100%" height="5" bgcolor="#003366"></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="6" cellspacing="6" bordercolor="#E6F2FE" bgcolor="#E6F2FE">
+  <tr>
+    <td width="120" valign="top" bordercolor="#E6F2FE" bgcolor="#E6F2FE">&nbsp;</td>
+    <td width="100%" align="center" valign="top" nowrap bordercolor="#E6F2FE" bgcolor="#E6F2FE" class="footer"><span class="smallText"><!--ACA is an affiliate member of the IUCr and  adheres to the IUCr Scientific Freedom Policy<br>
+and is a member of the American  Institute of Physics<br>
+ --><br>
+<a 
+   href="mailto:neutronscience@ornl.gov">Webmaster</a>&nbsp; &#8226; &nbsp;<a 
+   href="http://www.ornl.gov/ornlhome/disclaimers.shtml">Privacy &amp; Security Disclaimers</a>&nbsp; <!--&#8226; &nbsp; <a href="/conf/aca2008/sponsors/">Sponsors</a> --><br>
+<br>
+<a href="http://www.ornl.gov/">Oak Ridge National Laboratory</a>, 
+      is a national multiprogram 
+      research 
+      and 
+      development 
+      facility<br>
+      managed by      
+      <a 
+    href="http://www.ut-battelle.org/">UT-Battelle, LLC</a>, 
+      for the      
+    <a 
+    href="http://www.doe.gov/engine/content.do">U.S. Department of Energy</a> <a 
+    href="http://www.science.doe.gov/">Office of Science</a>.</span><br>
+    &nbsp;</td>
+    <td width="130" valign="top" nowrap>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

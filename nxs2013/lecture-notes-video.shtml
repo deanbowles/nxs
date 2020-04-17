@@ -1,0 +1,213 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Lecture Notes - Neutron Scattering School (NXS2013)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+<link rel="stylesheet" href="style.css" type="text/css">
+<script language="javascript">
+//--------------- LOCALIZEABLE GLOBALS ---------------
+var d=new Date();
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+//Ensure correct for language. English is "January 1, 2004"
+var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+//---------------   END LOCALIZEABLE   ---------------
+</script>
+</head>
+<body bgcolor="#FFFFFF">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#847B6E">
+  <tr>
+    <td rowspan="2" bgcolor="#E6F3FF"><a href="../nxs2012/index.html"><img src="../nxs2011/images/NXS_logo_SM_sm.jpg" alt="ORNL Neutron Scattering School" width="185" height="154" border="0"></a></td>
+    <td width="90%" align="center" valign="bottom" nowrap bgcolor="#0B22AD" class="headertext">15th National School on Neutron and X-Ray Scattering<br /></td>
+    <td width="10%" align="center" valign="bottom" nowrap bgcolor="#0B22AD" id="logo">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="90%" align="center" valign="top" bgcolor="#0B22AD" id="tagline"><br />August 10-24, 2013<br />Argonne National Laboratory, Argonne, IL<br />Oak Ridge National Laboratory, Oak Ridge, TN</td>
+    <td width="10%" align="center" valign="top" bgcolor="#0B22AD" id="tagline">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" height="25" border="0" cellpadding="0" cellspacing="0" bordercolor="#CCFF99" bgcolor="#CCFF99">
+  <tr>
+    <td align="right" nowrap bgcolor="#9F0000" id="dateformat"><span class="style1"><script language="javascript">document.write(TODAY);</script></span>&nbsp;</td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="165" valign="top" bgcolor="#FFFF99"><table border="0" cellspacing="0" cellpadding="0" width="185" id="navigation">
+  <tr>
+    <td width="185" height="25">&nbsp;<br>&nbsp;<br></td>
+  </tr>
+  <tr>
+    <td width="185"><a href="index.html" class="navTitle"><span class="navTitle">NXS2013</span></a></td>
+  </tr>
+  <tr>
+    <td width="185" class="navText">
+        <a href="schedule.shtml" class="navText">Schedule</a> 
+        <a href="participants.shtml" class="navText">Participants</a>
+        <a href="https://neutrons2.ornl.gov/conf/nxs2013/gallery/index.shtml" class="navText">Image Gallery</a>
+        <a href="travel.shtml" class="navText">Travel Info</a>
+        <a href="pdf/Student%20Thank%20You%20Note.pdf" class="navText">Thank you</a></td>
+  </tr>
+ <!-- <tr>
+    <td width="185"><a href="/conf/nxs2012/willBeAvailLater.shtml" class="navTitle"><span class="navTitle">Photos</span></a></td>
+  </tr>
+  <tr>-->
+    <td width="185" class="navText"><span  class="navTitle">&nbsp;Lectures</span><br />
+    	<!---Lecturers<br />--->
+        <a href="lecture-notes-video.shtml">Lecture Notes/Videos</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="185" class="navText"><a href="experiments.shtml"><span  class="navTitle">&nbsp;Experiments</span></a></td>
+  </tr>
+  <tr>
+    <td width="185"><span class="navTitle">&nbsp;ANL Facilities</span><br />
+    	<a href="images/Argonne_site-map.jpg" class="navText" target="_blank">ANL Map (jpg)</a>
+        <a href="pdf/Argonne_map.pdf" class="navText" target="_blank">ANL Map (pdf)</a>
+        <a href="pdf/VisitorsGuide-ANL.pdf" class="navText" target="_blank">ANL Visitor's Guide</a>
+ 	    <span class="navTitle">&nbsp;ORNL Facilities</span>
+		<a href="https://neutrons2.ornl.gov/facilities/HFIR/" class="navText">HFIR Facility</a>
+    	<a href="https://neutrons2.ornl.gov/facilities/SNS/" class="navText">SNS Facility</a>
+    	<a href="../nxs2011/pdf/08-G00333B_SNS_HFIR_UserMap.pdf" class="navText" target="_blank">HFIR/SNS Map</a>
+ 	</td>
+  </tr>
+  <tr>
+     <td width="185" class="navTitle">&nbsp;Wireless Networks <a href="http://web.ornl.gov/ornlhome/wireless.shtml">ORNL</a>
+     </td>
+   
+  </tr>
+  <tr>
+    <td width="185" class="navTitle"><span class="navTitle">&nbsp;Safety &amp; Security Rules</span>
+    	<a href="pdf/2013_NXS_Safety.pdf">ORNL</a>   
+    </td>
+  </tr>
+   <tr>
+    <td width="185" class="navText">
+        <!--<a href="/conf/nxs2011/pdf/NSSA_2011.pdf" target="_blank">NSSA New Initiatives</a>-->
+        <a href="http://neutronscattering.org/" target="_blank">NSSA Weblink</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="185" class="navTitle">&nbsp;Contacts
+   		<a href="contact-ANL.shtml" class="navText">ANL</a>
+    	<a href="contact-ORNL.shtml" class="navText">ORNL</a>
+    </td>
+  </tr>
+</table></td>
+    <td width="35">&nbsp;</td>
+    <td valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+    <div  class="pageName">	<h2>15<sup>th</sup> National School on Neutron &amp; X-ray Scattering</h2></div>
+<p>&nbsp;</p>
+<h2>Lecture Notes & Videos</h2>
+ <p><em>Some of the material in the following presentations is protected by copyright. Distribution, presentation, or other use requires expressed permission of the author.</em></p>
+   <p><strong>Argonne Lectures</strong></p>
+   <p>E. Alp &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Alp_NX_School_2013_IXS.key.pdf">Inelastic X-ray Scattering, IXS</a></p>
+   <p>R. Aymeric &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/ROBERT_NX_school.pdf">FEL's and X-ray Photon Correlation Spectroscopy </a></p>
+  
+    <p>G. Bunker &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Bunker_XAFS_toner_friendly.pdf">X-ray Absorption Spectroscopy</a></p>
+    <p>P. Evans &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Evans8-16-13.pdf">Time-resolved Scattering</a></p>
+   <p>M. Guthrie &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/HighPressureNXS2013.pdf">High Pressure Techniques</a></p>
+      <p>C. Jacobsen &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/2013_08_15_jacobsen_neutron_xray_school-1.pdf">X-ray Imaging</a></p>
+      <p>A. Miceli &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/pdf/NX_School_Detectors_2013_Miceli.pdf">X-ray Detectors</a></p>
+    <p>D. Mills &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/SourceProperties_2013_Mills.pdf">Snychrotron Radiation:  Production & Properties</a></p>
+    <p>D. Mill &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/optics_2013_Mills.pdf">X-ray Optical Components for Snychrotron Radiation</a></p>
+    <p>I. Pickering &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Pickering-XAS-Applications-NX2013.pdf">Applications of X-ray Absorption Spectroscopy in Environmental, Health and Chemical Sciences</a></p>
+    <p>R. Pynn &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/PynnIntroductoryLectures_2013.pdf">An Introduction to Neutron and X-Ray Scattering </a></p>
+    <p>D. Schaefer &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/NXSchool2013ANLORNL.pdf">Exploring the Nanoworld with Small-Angle Scattering</a></p>
+    <p>A. Schultz &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Schultz_SingleCrystalDiffraction_2013.pdf">Single Crystal Diffraction</a></p>
+    <p>B. Suter &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/2013_08_13_N-X_school_short.pdf">High Energy Diffraction Microscopy at Sector 1:  An Inside View of Materials' Responses</a></p>
+    <p>B. Toby &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/2013_NXintro2powder%20ppt.pdf">A very Abbreviated Introduction to Powder Diffraction</a></p><br>
+     <p><strong>Oak Ridge Lectures</strong></p>
+     <p>H. Bilheux &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Neutron_School_2013_rev.pdf">Introduction to Neutron Imaging</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Bilheux.wmv">Video</a></p>
+      <p>C. Broholm &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/SS-2013BroholmMagneticNeutronScattering.pdf">Magnetic Neutron Scattering</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Brohlm.wmv">Video</a></p>
+       <p>D. Brown &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/dbrownschool.pdf">Engineering Neutron Diffraction</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Brown.wmv">Video</a></p>
+       <p>J. Budai &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/pdf/NXS-ProposalStrategies-2013_JDB.pdf">Proposal Writing:  Hints for maximizing your chances for getting beam time</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Budai.wmv">Video</a></p>
+ <p>J. Carpenter &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Carpenter-detectors2013.pdf">Detectors for Slow Neutrons</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/2_Carpenter.wmv">Video</a></p>
+  <p>J. Carpenter &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Carpenter-NeutronGeneration2013.pdf">Neutron Generation</a></p>
+ <p>K. Herwig &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Herwig-QuasielasticNeutronScattering.pdf">Quasielastic Neutron Scattering</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Herwig.wmv">Video</a></p>
+ <p>A. Huq &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/PowderdiffractionapplicationAshfiaHuq2013.pdf">Powder Diffraction Application</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Huq.wmv">Video</a></p>
+ <p>G. Ice &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Diffuse13.pdf">Diffuse Scattering</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Ice_1.wmv">Video 1</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Ice_2.wmv">Video 2</a></p>
+ <p>G. Ice &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/Micro2013.pdf">X-ray and Neutron Microdiffraction</a></p>
+ <p>Y. Lee &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/NXS_Lee_2013.pdf">Introduction to Inelastic Neutron Scattering</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Lee_1.wmv">Video 1</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Lee_2.wmv">Video 2</a></p>
+ <p>C. Majkrzak &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/xns_pol_n_2013_majkrzak.pdf">Polarized Neutrons</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Majkrzak_2.wmv">Video</a></p>
+      <p>C. Majkrzak &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/xns_nr_2013_majkrzak.pdf">X-ray and Neutron Reflectometry</a></p>
+       
+     <p>T. Proffen &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/NXS2013-Proffen.pdf">Total Scattering</a></p>
+ <p>L. Robertson &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/pdf/NX_School_2013_Robertson.pdf">Neutron Optics and Instrumentation</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/3_Robertson.wmv">Video</a></p>
+ <p>V. Urban &ndash; <a href="https://neutrons2.ornl.gov/conf/nxs2013/pdf/NeutronXraySchool_2013_SAS_vu2.pdf">Applications of Small Angle Scattering</a>&nbsp;&ndash;&nbsp;<a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Urban.wmv">Video</a></p> 
+ <p><strong>Student Presentations</strong></p>
+ 
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20A.wmv">Group A</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20A+.wmv">Group A+</a></p>
+ <P><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20B.wmv">Group B</a></P>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20D.wmv">Group D</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20F.wmv">Group F</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20G.wmv">Group G</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20H.wmv">Group H</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20I.wmv">Group I</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20J.wmv">Group J</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20K2.wmv">Group K2</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20L.wmv">Group L</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20M.wmv">Group M</a></p>
+  <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20N.wmv">Group N</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20P.wmv">Group P</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Group%20Q.wmv">Group Q</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Neutron%20Group%20A.wmv">Neutron Group A</a></p>
+ <p><a href="https://neutrons2.ornl.gov/conf/nxs2013/lecture/Xray%20Group%20B.wmv">Xray Group B</a></p>
+ 
+ 
+<table border="0" align="center" >
+  <tr valign="bottom">
+    <td><img src="images/argonne_header_logo.jpg" alt="Argonne Logo" width="215" height="87" border="0" >&nbsp;<img src="images/ORNL_white_30.jpg" alt="ORNL Log" width="215" height="87" /></td>
+  </tr>
+</table>
+      <br>
+    </td>
+    <td width="35">&nbsp;</td>
+  </tr>
+  <!--<tr>
+  	<td colspan="100%" align="center"><img src="images/argonne_header_logo.jpg" alt="Argonne Logo" width="215" height="87" border="0" ><img src="images/ORNL_white_30.jpg" alt="ORNL Log" width="215" height="87"  ></td></tr> -->
+</table>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="100%" bgcolor="#9F0000">&nbsp;</td>
+  </tr>
+   <tr>
+    <td width="100%" height="5" bgcolor="#000000"></td>
+  </tr>
+</table>
+
+<table width="100%" border="0" align="center" cellpadding="6" cellspacing="6" bordercolor="#FFFF99" bgcolor="#FFFF99">
+  <tr>
+    <td width="120" valign="top" bordercolor="#000000" bgcolor="#FFFF99">&nbsp;</td>
+    <td width="100%" align="center" valign="top" nowrap bordercolor="#000000" bgcolor="#FFFF99" class="footer">
+      <span class="smallText"><br />
+      	<a  href="http://neutrons.ornl.gov/">Neutron Sciences</a>&nbsp; &#8226; &nbsp;<a 
+   href="http://neutrons.ornl.gov/calendar/">Upcoming Events</a>&nbsp; &#8226; &nbsp;
+        <a href="mailto:neutronscience@ornl.gov">Webmaster</a>&nbsp; &#8226; &nbsp;<a href="http://web.ornl.gov/ornlhome/disclaimers.shtml">Privacy &amp; Security Disclaimers</a>
+        <br>
+        <br>
+        <a href="http://web.ornl.gov/">Oak Ridge National Laboratory</a>, is a national multiprogram research and development facility<br> managed by <a href="http://www.ut-battelle.org/">UT-Battelle, LLC</a>, for the <a href="http://www.doe.gov/engine/content.do">U.S. Department of Energy</a> <a href="http://www.science.doe.gov/">Office of Science</a>.
+      </span>
+    </td>
+    <td width="130" valign="top" nowrap>&nbsp;</td>
+  </tr>
+</table>
+<div align="center" class="smallText"><em>Last Updated
+  Monday, 13-Mar-2017 18:15:35 EDT  
+  -  
+  [an error occurred while processing this directive]
+</em></div>
+
+</body>
+</html>

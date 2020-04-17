@@ -1,0 +1,490 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Abstracts - NXS 2009</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9">
+<link rel="stylesheet" href="style.css" type="text/css">
+<script language="javascript">
+//--------------- LOCALIZEABLE GLOBALS ---------------
+var d=new Date();
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+//Ensure correct for language. English is "January 1, 2004"
+var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+//---------------   END LOCALIZEABLE   ---------------
+</script>
+
+</head>
+<body bgcolor="#FFFFFF">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#847B6E">
+  <tr>
+    <td rowspan="2" bgcolor="#E6F3FF"><a href="index.html"><img src="images/NXS_logo_SM_sm.jpg" alt="ORNL Neutron Scattering School" width="165" height="178" border="0"></a></td>
+<td width="90%" align="center" valign="bottom" nowrap bgcolor="#0B22AD" class="headertext">
+         National School on Neutron and X-ray Scattering<br />
+        
+      </td>
+    <td width="10%" align="center" valign="bottom" nowrap bgcolor="#0B22AD"  id="logo">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="90%" align="center" valign="top" bgcolor="#0B22AD" id="tagline"><br />
+      May 30 - June 13, 2009<br />
+Oak Ridge National Laboratory, Oak Ridge, TN<br />
+Argonne National Laboratory, Argonne, IL</td>
+    <td width="10%" align="center" valign="top" bgcolor="#0B22AD" id="tagline">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#CCFF99" bgcolor="#CCFF99">
+  <tr>
+    <td width="88%" bgcolor="#9F0000">&nbsp;</td>
+  <td width="11%" align="right" nowrap bgcolor="#9F0000" id="dateformat"><span class="style1">&nbsp;&nbsp;
+      <script language="javascript">
+      document.write(TODAY);	</script>
+    </span>&nbsp;</td>
+    <td width="1%" bgcolor="#9F0000"><span class="style1"></span></td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="165" valign="top" bgcolor="#FFFF99"><table border="0" cellspacing="0" cellpadding="0" width="165" id="navigation">
+  <tr>
+    <td width="165">&nbsp;<br>
+      &nbsp;<br></td>
+  </tr>
+  <tr>
+    <td width="165">
+    <a href="index.shtml" class="navTitle">ORNL NXS2009
+    <br />
+    </a>
+    <a href="http://www.surveymonkey.com/s.aspx?sm=g_2bqPYKjKwiwvKqvudP7w3g_3d_3d">Participant Survey</a>
+    <a href="tour.shtml">Local Industry Tours</a>
+    <a href="pdf/NX_School_2009-Map.pdf">Participant Institutions</a>    
+    <a href="lecture_notes.shtml" class="navText">Lecture Notes</a>   
+    <a href="video.shtml" class="navText">Lecture Videos</a> </td>
+  </tr>
+  <tr>
+    <td width="165" class="navTitle"><a href="transportation.shtml">Transportation</a> 
+    	<a href="pdf/TravelLodgingNx09.pdf">Argonne Travel</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="165" class="navTitle"><a href="pdf/NXS_schedule_2009_v9_3.pdf" target="_blank">Schedule<br>
+    </a></td>
+  </tr>
+  <tr>
+    <td width="165"  class="navTitle">&nbsp;ORNL Experiments
+	<a href="abstracts.shtml" class="navText">Abstracts</a> <a href="pdf/THURS_Experiment_Discussion_matrix.pdf" target="_blank" class="navText">Discussion Schedule</a> <a href="experiments.shtml" class="navText">Experiments</a>  <a href="pdf/NXS2009_groups.pdf" target="_blank" class="navText">Experiment Groups</a>    </td>
+  </tr>
+  <tr>
+    <td width="165" class="navTitle">&nbsp;ORNL Facilities
+			<a href="http://neutrons.ornl.gov/hfir/hfir_facilities.shtml" class="navText">HFIR Facility</a>
+    	<a href="http://neutrons.ornl.gov/facilities/facilities_sns.shtml" class="navText">SNS Facility</a>
+    	<a href="http://www.ornl.gov/ornlhome/maps/ornl_maps/sns_hfir_vistor_map.pdf" class="navText">HFIR/SNS Map</a>
+    
+ 		</td>
+  </tr>
+  <tr>
+    <td width="165"><a href="pdf/AccessRequirements.pdf" class="navText">Access Requirements</a></td>
+  </tr>
+  <tr>
+     <td width="165"><a href="NeutronSchool_ORNL_Visitor_WirelessInstructions_v1.pdf" class="navText">Wireless Network Access</a></td>
+   
+  </tr>
+    <tr>
+    <td width="165"><a href="pdf/Safety_Medical_Security_Restrictions_2009.pdf" class="navText">Safety &amp; Security Rules</a></td>
+  </tr>
+  <tr>
+    <td><a href="contact.shtml" class="navText">Contact</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="http://www.neutronscattering.org/" class="navText">NSSA</a>
+    </td>
+  </tr>  
+  
+</table><br /><br />
+</td>
+    <td width="35"><img src="https://neutrons2.ornl.gov/conf/nxs2009/spacer.gif" alt="filler" width="35" height="1"></td>
+    <td width="100%" valign="top">
+      <table border="0" cellspacing="6" cellpadding="6">
+       <tr>
+        <td><div class="pageName">
+          <h2>ORNL 2009 NXS School Experiment Abstracts</h2></div>
+          <p><a href="https://neutrons2.ornl.gov/conf/nxs2009/Experiments_Info.xls">Excel formatted version</a></p>
+        
+       
+            <table border=1 cellpadding="2" cellspacing="2">
+
+ 
+ <tr  bgcolor="#ADD9F1">
+  <td valign="middle"  align="center">Instrument</td>
+  <td align="center">Experiment Cycle</td>
+  <td align="center">Proposal No.</td>
+  <td align="center">Principal Investigator or Instrument Scientist</td>
+  <td align="center">Experiment Title</td>
+ </tr>
+ <tr bgcolor="#ADD9F1">
+  <td colspan="5" align="center">Abstract</td>
+ </tr>
+ <tr bgcolor="#0B22AD">
+  <td colspan="5"><div align="center"><span class="lightText">High Flux Isotope Reactor (HFIR)</span></div></td>
+ </tr>
+ <tr>
+  <td><div align="center">CG-2 - General-Purpose SANS</div></td>
+  <td><div align="center">HFIR 2009-A</div></td>
+  <td><div align="center">IPTS-2013</div></td>
+  <td><div align="center">Ken Littrell</div></td>
+  <td>Micellar Morphologies in Self-Associated Triblock Copolymer Solutions: Effects of Concentration</td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>The
+  PEO-PPO-PEO triblock copolymers have important applications in industry and
+  medicine. Because of the differing solubilities of PEO and PPO in water,
+  these copolymers exhibit a rich phase behavior that is sensitive to polymer
+  concentration, solvent ionic strength, temperature, and pressure. These phase
+  changes occur by the self-assembly of the polymer chains into structures with
+  characteristic length scales most appropriately measured in nanometers. Thus,
+  small-angle neutron scattering (SANS) is a probe uniquely well-suited to
+  studying this phase behavior. In these experiments we will probe the effects
+  of concentration and ionic strength on block copolymer self-assembly using
+  solutions of 1,2, and 5 weight% Pluronics F108 triblock copolymer in D20 with
+  varying concentrations of salt added, one series in which the anion is the
+  same and the cation is varied, and another where the reverse is true. The
+  size morphology, and aggregation number of the micellar structures will be
+  extracted through nonlinear least-squares fitting of the scattering data to
+  model functions.</blockquote>
+  </td>
+ </tr>
+ <tr>
+  <td><div align="center">CG-3 - Bio-SANS</div></td>
+  <td><div align="center">HFIR
+    2009-A</div></td>
+  <td><div align="center">IPTS-2025</div></td>
+  <td><div align="center">Volker Urban</div></td>
+  <td>Protein
+  unfolding studied by small-angle neutron scattering<br></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Small-angle
+  neutron scattering (SANS) is a powerful tool for looking at the conformation
+  of biological macromolecules in solution. SANS is particularly sensitive to
+  conformational changes of proteins and nucleic acids in response to applied
+  stimuli, such as temperature, pressure or small molecules. We will study the
+  solution conformation of human serum albumin, a multifunction protein found
+  in the blood, and how it changes in response to urea, a protein denaturant,
+  using the BioSANS instrument at HFIR. Various methods of fitting the data
+  will be employed to extract the molecular weight of the scattering particle,
+  the radius of gyration, the distance distribution function P(r) and the
+  maximum linear dimension. Methods for developing models of the protein from
+  SANS data will also be discussed.
+  </blockquote></td>
+ </tr>
+ <tr>
+  <td><div align="center">HB-1 - Polarized Triple-axis Spectrometer</div></td>
+  <td><div align="center">HFIR
+    2009-A</div></td>
+  <td><div align="center">IPTS-2010</div></td>
+  <td><div align="center">Andrey Zheludev</div></td>
+  <td>Spin
+  wave and phonon dispersion in Fe-Ga solid solutions
+  <br></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Fe-Ga
+  alloys with appropriate composition and heat treatment, exhibit giant
+  magnetostriction in a polycrystalline and ductile form.1,2 The tetragonal
+  magnetostriction coefficient, &#61548;100, of Fe-Ga can be up to 15 times
+  that of pure Fe. This makes these materials of tremendous scientific interest
+  as well as technological interest for use in devices such as actuators,
+  transducers and sensors. Elastic constant measurements3 show that the shear
+  elastic constant 1/2(C11-C12) decreases with increasing Gallium concentration
+  and extrapolates to zero at approximately 26 at.% Ga. The slope of the phonon
+  dispersion curve at low-q of the T2[110] branch is a measure of that elastic
+  constant and hence the interest in measuring phonons in these materials. With
+  the large magnetoelastic interactions in such a material, it is also of
+  interest to measure the spin wave dispersion. In the neutron school
+  experiments at HB1, HB1A and HB3, we will use samples of three compositions
+  of Fe-Ga alloys in to measure both phonon and spin wave neutron groups at
+  room temperature.</blockquote></td>
+ </tr>
+ <tr>
+  <td><div align="center">HB-1A - Fixed-Incident-Energy Triple-Axis Spectrometer</div></td>
+  <td><div align="center">HFIR
+    2009-A</div></td>
+  <td><div align="center">IPTS-2011</div></td>
+  <td><div align="center">Jerel Zarestky</div></td>
+  <td>Spin
+  wave and phonon dispersion in Fe-Ga solid solutions
+  <br></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Fe-Ga
+  alloys with appropriate composition and heat treatment, exhibit giant
+  magnetostriction in a polycrystalline and ductile form.1,2 The tetragonal
+  magnetostriction coefficient, &#61548;100, of Fe-Ga can be up to 15 times
+  that of pure Fe. This makes these materials of tremendous scientific interest
+  as well as technological interest for use in devices such as actuators,
+  transducers and sensors. Elastic constant measurements3 show that the shear
+  elastic constant 1/2(C11-C12) decreases with increasing Gallium concentration
+  and extrapolates to zero at approximately 26 at.% Ga. The slope of the phonon
+  dispersion curve at low-q of the T2[110] branch is a measure of that elastic
+  constant and hence the interest in measuring phonons in these materials. With
+  the large magnetoelastic interactions in such a material, it is also of
+  interest to measure the spin wave dispersion. In the neutron school
+  experiments at HB1, HB1A and HB3, we will use samples of three compositions
+  of Fe-Ga alloys in to measure both phonon and spin wave neutron groups at
+  room temperature.
+  </blockquote></td>
+ </tr>
+ <tr>
+  <td><div align="center">HB-2A  </span>- Neutron Powder
+    Diffractometer<span style='mso-spacerun:yes'> </span></div></td>
+  <td><div align="center">HFIR
+    2009-A</div></td>
+  <td><div align="center">IPTS-2033</div></td>
+  <td><div align="center">Vasile Garlea</div></td>
+  <td>Quantitative
+  phase analysis using high-resolution neutron powder diffraction
+  <br></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Neutron
+  powder diffraction combined with quantitative Rietveld analysis is a powerful
+  tool for determining the quantities of crystalline and amorphous components
+  in multiphase mixtures. The experiment is aimed to demonstrate the
+  quantitative phase analysis procedure for the case of manganese molybdate
+  (with the composition MnMoO4) containing manganese oxide (Mn2O3) as an
+  impurity phase. The high resolution diffraction data will be collected at the
+  ambient temperature using the HB2A powder diffractometer at the HFIR. The
+  data analysis will be performed by using the freely distributed program
+  FullProf Suite [1]. 1. The FullProf Suite is available at:
+    <a href="http://www.ill.eu/sites/fullprof/">http://www.ill.eu/sites/fullprof/</a>.</blockquote>
+  </td>
+ </tr>
+ <tr>
+  <td><div align="center">HB-2C - U.S./Japan Wide Angle Neutron Diffractometer</div></td>
+  <td><div align="center">HFIR
+    2009-A</div></td>
+  <td><div align="center">IPTS-2022</div></td>
+  <td><div align="center">Bryan Chakoumakos</div></td>
+  <td>Magnetic
+  Structure of FeF2</td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Neutron
+  diffraction measurements will be performed to investigate the onset of
+  long-range magnetic order in the FeF2 [1-4]. Data will be collected at
+  various temperatures, ranging from 300 K to 5 K, using the Wide-Angle Neutron
+  Diffractometer (WAND) at the HFIR. Rietveld analysis of the crystal and
+  low-temperature magnetic structure will be carried out using FullProf Suite
+  software. The results obtained will be discussed and compared with those
+  reported in earlier studies.
+  </blockquote></td>
+ </tr>
+ <tr>
+  <td><div align="center">HB-3 - Triple-axis Spectrometer</div></td>
+  <td><div align="center">HFIR
+    2009-A</div></td>
+  <td><div align="center">IPTS-2012</div></td>
+  <td><div align="center">Mark Lumsden</div></td>
+  <td>Spin
+  wave and phonon dispersion in Fe-Ga solid solutions
+  <br></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Fe-Ga
+  alloys with appropriate composition and heat treatment, exhibit giant
+  magnetostriction in a polycrystalline and ductile form.1,2 The tetragonal
+  magnetostriction coefficient, &#955;100, of Fe-Ga can be up to 15 times
+  that of pure Fe. This makes these materials of tremendous scientific interest
+  as well as technological interest for use in devices such as actuators,
+  transducers and sensors. Elastic constant measurements3 show that the shear
+  elastic constant 1/2(C11-C12) decreases with increasing Gallium concentration
+  and extrapolates to zero at approximately 26 at.% Ga. The slope of the phonon
+  dispersion curve at low-q of the T2[110] branch is a measure of that elastic
+  constant and hence the interest in measuring phonons in these materials. With
+  the large magnetoelastic interactions in such a material, it is also of
+  interest to measure the spin wave dispersion. In the neutron school
+  experiments at HB1, HB1A and HB3, we will use samples of three compositions
+  of Fe-Ga alloys in to measure both phonon and spin wave neutron groups at
+  room temperature.
+  </blockquote></td>
+ </tr>
+ <tr>
+  <td colspan="5" align="center" bgcolor="#0B22AD" class="lightText">Spallation Neutron Source (SNS)</td>
+ </tr>
+ <tr>
+  <td><div align="center">BL-18 - Wide Angular-Range Chopper Spectrometer (ARCS)</div></td>
+  <td><div align="center">SNS
+    2009-A</div></td>
+  <td><div align="center">IPTS-2014</div></td>
+  <td><div align="center">Douglas Abernathy</div></td>
+  <td>Dynamics
+  of metal hydride systems: Harmonic oscillators and beyond
+  <br></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>The
+  hydrogen in zirconium hydride (ZrH2) sits at the interstitial positions
+  between the zirconium. At the simplest description, the energy levels can be
+  considered to be the same as a particle in a potential well. The aim of this
+  experiment is to measure the vibrational spectrum of ZrH2 as a function of
+  energy and wavevector transfer, and determine how well it conforms to the
+  predictions of the scattering from a harmonic oscillator. Practical
+  applications of sample preparation, data collection and analysis will be
+  given to generate the scattering function S(Q, &#969;) from the data.
+  This will be compared to theoretical predictions based on the harmonic
+  oscillator description, with a discussion of what may cause any discrepancies
+  found. As time permits, other metal hydrides will be measured to highlight
+  differences in their energy spectra.
+  </blockquote></td>
+ </tr>
+ <tr>
+  <td><div align="center">BL-2 - Backscattering Spectrometer (BASIS)</div></td>
+  <td><div align="center">SNS
+    2009-A</div></td>
+  <td><div align="center">IPTS-2015</div></td>
+  <td><div align="center">Eugene Mamontov</div></td>
+  <td>Diffusion
+  dynamics of protons in a novel ionic liquid designed for proton-exchange
+  membranes<br>
+  <br></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Protic
+  ionic liquids show great potential for mobile fuel cell applications. They
+  possess appealing features such as almost negligible vapor pressure, the
+  characteristic electrical conductivity of an ionic conductor, and a sizable
+  temperature gap between the melting and decomposition points. The diffusion
+  dynamics of protons in these complex liquids are closely tied to their
+  performance as electrolytes. Quasielastic neutron scattering (QENS) is a
+  technique of choice for studying the details of diffusion dynamics of
+  hydrogen because of (1) the large incoherent scattering cross-section of
+  hydrogen compared to other elements and (2) capability of probing spatial
+  characteristics of diffusion processes through dependence of the scattering
+  signal on the momentum transfer, Q. The latter is a clear advantage of QENS
+  compared to, for instance, NMR. In our QENS experiment to be performed on the
+  new SNS backscattering spectrometer, BASIS, we will utilize the Q-dependence
+  of the scattering signal to identify and analyze several dynamic processes
+  involving diffusion motions of hydrogen atoms in a recently synthesized ionic
+  liquid [H2NC(dma)2][BETI].
+  </blockquote></td>
+ </tr>
+ <tr>
+  <td><div align="center">BL-3 - Spallation Neutrons and Pressure Diffractometer (SNAP)</div></td>
+  <td><div align="center">SNS
+    2009-A</div></td>
+  <td><div align="center">IPTS-2023</div></td>
+  <td><div align="center">Chris Tulk</div></td>
+  <td>Pressure-induced
+  phase transitions of water at room temperature
+  <br></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Students
+  will load a sample of liquid water into a Paris-Edinburgh pressure cell.
+  They'll increase the pressure on the sample first to 1.5 GPa and then to 3
+  GPa collecting data at each point. Once analyzed, the data will reveal that
+  the sample has undergone two phase transitions: First from liquid water at
+  ambient pressure to ice VI at 1.5 GPa and second from ice VI to ice VII at 3
+  GPa.</blockquote>
+    <br></td>
+ </tr>
+ <tr>
+  <td><div align="center">BL-4A - Magnetism (vertical surface) Reflectometer (MR)</div></td>
+  <td><div align="center">SNS
+    2009-A</div></td>
+  <td><div align="center">IPTS-2036</div></td>
+  <td><div align="center">Valeria Lauter</div></td>
+  <td>Interface-induced
+  ferromagnetism in LaMnO3/SrTiO3
+  <br></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Polarized
+  neutron reflectometry will be applied to study the phase transition in LaMnO3
+  thin film epitaxially grown on SrTiO3 substrate. Recent studies have shown a
+  strong influence of interfaces on the magnetic properties of complex
+  metal-oxide thin films, leading to behaviors that are radically different
+  from those of bulk materials. This is particularly true for manganites. Our
+  ongoing work on layered films formed of paramagnetic SrTiO3 and
+  antiferromagnetic LaMnO3 shows the occurrence of interface-induced
+  ferromagnetism. With this experiment, students will probe the magnetic
+  structure in films, in order to understand the fascinating effects of
+  layer-layer coupling.
+  </blockquote></td>
+ </tr>
+ <tr>
+  <td><div align="center">BL-4B - Liquids (horizontal surface) Reflectometer (LR)</div></td>
+  <td><div align="center">SNS
+    2009-A</div></td>
+  <td><div align="center">IPTS-2016</div></td>
+  <td><div align="center">John Ankner</div></td>
+  <td>Polymer
+  self-diffusion studied by specular reflectivity<span
+  style='mso-spacerun:yes'> 
+  <br>
+  </span></td>
+  </tr>
+  <tr>
+  <td colspan="5"><blockquote>Isotopic
+  substitution is a powerful tool in neutron scattering studies. In this
+  experiment we will observe the self-diffusion of polystyrene (PS) by means of
+  a 500-A-thick deuterated (dPS) layer float-deposited atop a spin-coated
+  500-A-thick protonated PS layer on a silicon substrate. Students will prepare
+  the film in the beamline 4B wet lab and measure specular reflectivity. We
+  will then anneal the sample for ~30 mins in a vacuum oven and re-measure the
+  reflectivity. Students will fit the data from the two runs to observe changes
+  in the interfacial width of the dPS/PS. We will have backup samples ready in
+  case deposition fails for some reason.
+  </blockquote></td>
+ </tr>
+</table>
+       	  </td>
+        </tr>
+      	<tr><td>
+      		
+        </td>
+       </tr>
+      </table>
+    <td width="35"><img src="https://neutrons2.ornl.gov/conf/nxs2009/spacer.gif" alt="filler" width="35" height="1"></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolor="#2D60BC" bgcolor="#CCFF99">
+  <tr>
+    <td width="100%" bgcolor="#9F0000">&nbsp;</td>
+  </tr>
+   <tr>
+    <td width="100%" height="5" bgcolor="#000000"></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="6" cellspacing="6" bordercolor="#FFFF99" bgcolor="#FFFF99">
+  <tr>
+    <td width="120" valign="top" bordercolor="#000000" bgcolor="#FFFF99">&nbsp;</td>
+    <td width="100%" align="center" valign="top" nowrap bordercolor="#000000" bgcolor="#FFFF99" class="footer"><span class="smallText"><!--ACA is an affiliate member of the IUCr and  adheres to the IUCr Scientific Freedom Policy<br>
+and is a member of the American  Institute of Physics<br>
+ --><br>
+<a 
+   href="mailto:neutronscience@ornl.gov">Webmaster</a>&nbsp; &#8226; &nbsp;<a 
+   href="http://www.ornl.gov/ornlhome/disclaimers.shtml">Privacy &amp; Security Disclaimers</a>&nbsp; <!--&#8226; &nbsp; <a href="/conf/aca2008/sponsors/">Sponsors</a> --><br>
+<br>
+<a href="http://www.ornl.gov/">Oak Ridge National Laboratory</a>, 
+      is a national multiprogram 
+      research 
+      and 
+      development 
+      facility<br>
+      managed by      
+      <a 
+    href="http://www.ut-battelle.org/">UT-Battelle, LLC</a>, 
+      for the      
+    <a 
+    href="http://www.doe.gov/engine/content.do">U.S. Department of Energy</a> <a 
+    href="http://www.science.doe.gov/">Office of Science</a>.</span><br>
+    &nbsp;</td>
+    <td width="130" valign="top" nowrap>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
